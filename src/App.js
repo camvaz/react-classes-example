@@ -1,6 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
 
+// Create an array with 10 user objects
+const users = [
+  {
+    name: 'John Doe',
+    age: 32,
+  },
+
+
+
 function App() {
   return (
     <div className="App">
